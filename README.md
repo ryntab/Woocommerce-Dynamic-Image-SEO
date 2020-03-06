@@ -1,5 +1,4 @@
 <img height="40px" src="https://d9p59zs917ctq.cloudfront.net/wp-content/uploads/2019/10/24065131/altseologo.jpg">
-# Alt SEO
 A lightweight solution for adding Woocommerce Image Attributes dynamically.
 
 ## Description
