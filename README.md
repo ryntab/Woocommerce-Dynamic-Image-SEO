@@ -1,5 +1,4 @@
 <img height="40px" src="https://d9p59zs917ctq.cloudfront.net/wp-content/uploads/2019/10/24065131/altseologo.jpg">
-A lightweight solution for adding Woocommerce Image Attributes dynamically.
 
 ## Description
 <strong>"alt seo"</strong> dynamically adds relevant 'alt' and 'title' attributes to your woocommerce images based on selected meta constructors. By default woocommerce leaves alt and title tags blank, using this plugin you can add relevant data to all your Woo images instantly. It's a fast and simple boost to your on page seo. 
